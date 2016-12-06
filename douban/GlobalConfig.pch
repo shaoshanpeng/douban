@@ -1,0 +1,18 @@
+//
+//  GlobalConfig.pch
+//  douban
+//
+//  Created by ShaoShanPeng on 2016/12/5.
+//  Copyright © 2016年 ShaoShanPeng. All rights reserved.
+//
+
+#ifndef GlobalConfig_pch
+#define GlobalConfig_pch
+
+#import "UIView+UIView___Extension.h"
+#import "UIImage+UIImage___extionsion.h"
+
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#endif /* GlobalConfig_pch */
